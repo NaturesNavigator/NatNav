@@ -22,7 +22,7 @@ title: Nature's Navigator
 email: naturesnavigator@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
    This website is intended to educate individuals as to how to support normal health through natural means..
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "NaturesNavigator.club" # the subpath of your site, e.g. /blog
 url: "http://naturesnavigator.club" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
